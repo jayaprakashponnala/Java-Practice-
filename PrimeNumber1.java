@@ -8,10 +8,12 @@ public class PrimeNumber1{
                 count++;
             }
         }
+         
         if (count == 2) {
             System.out.println(numb + " is Prime");
         } else {
             System.out.println(numb + " is not Prime");
         }
     }
+
 }
