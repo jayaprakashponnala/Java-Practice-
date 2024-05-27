@@ -8,7 +8,7 @@ public class PrimeNumber1{
                 count++;
             }
         }
-        System.out.println("enterd numberis ")
+         
         if (count == 2) {
             System.out.println(numb + " is Prime");
         } else {
